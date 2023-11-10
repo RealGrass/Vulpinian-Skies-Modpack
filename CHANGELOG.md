@@ -177,7 +177,7 @@ Added some additional, small new mods:
 - Botany Trees
     - allows trees to be planted in Botany Pots.
 - LevelTextFix
-    - fixes the display enchantments that are over lvl 10.
+    - fixes the display for enchantments that are over lvl 10.
     - The default is in Roman Numerals, but can be changed to regular old Arabic numbers.
 - Tips
 - Now there will be custom tips that will show during loading screen and in the menu, detailing some useful features of the modpack as well as things that are unique to the modpack. Oh one or two tips might be sussy :Smug:
@@ -279,7 +279,7 @@ Oh boy, there's a lot of them this patch.
     - Obsidian
     - Ender
     - Amethyst
-    - Debris
+    - Ancient Debris
     - Netherite
     - Iron
     - Gold
@@ -426,7 +426,7 @@ Big update that adds a lot of polish, sets up methods to further develop more po
     - Mod Searching
 	- Effect Descriptions
 	- Vulpinian Advancements
-	- Jade keybindinds
+	- Jade keybinds
 - Reworded Tips:
     - Auto tool restock
     - Cloud in a bottle
@@ -463,7 +463,7 @@ Big update that adds a lot of polish, sets up methods to further develop more po
 - Jade
     - Added default configuration
 	- Set theme to Create to match Engineer's Goggles
-	- Changed default key to see Uses
+	- Changed default key to see uses
 	
 ## Fixes
 - Fixed some sound subtitles.
