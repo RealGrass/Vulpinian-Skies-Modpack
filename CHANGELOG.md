@@ -139,7 +139,7 @@ Removed mods due to game-breaking bugs/incompatibility:
 - Completely overhauled the gun recipe system.
     - Now guns are no longer crafted in the workbench along with ammo (the workbench is used only for accessories now), and a Class X Frame system has been developed, with information on the guide book. Each tier has a frame, and each tier uses progressively more and more expensive ingredients, according to game progression. 
     - There have been great strides in unifying recipes, resources, and materials.
-    - Diamond items have been tagged, for instance, based on how many diamodns were used to craft them, so that they may be melted down into molten diamond, which is used in some high-tier recipes, espeically for guns and ammo
+    - Diamond items have been tagged, for instance, based on how many diamonds were used to craft them, so that they may be melted down into molten diamond, which is used in some high-tier recipes, espeically for guns and ammo
     - Tweaked some Class G, F, and S guns
  
  ## Vulpinian Skies Core
@@ -647,9 +647,8 @@ Big update that adds a lot of polish, sets up methods to further develop more po
 - Kubejs Create
     - ???
 - Oh, The Biomes You'll Go
-    - No new biomes
-	- but a lot of bugfixes
-	- including possible crash fix.
+    - No new biomes, but a lot of bugfixes
+	- includes possible crash fix.
 
 ## Vulpinian Food and Drink
 - Now Canisters with beer can be right-clicked with an empty mug to immediately take beer. (Canisters are portable fluid-holding blocks added by Create: Diesel Engines).
